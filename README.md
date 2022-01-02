@@ -9,7 +9,7 @@ Other libs I used:
 
 You can access the online version [here]()
 
-Code made for study following project test  
+Code made for study following project test no using any UI library   
 https://github.com/agrotis-io/desafio-front   
 
 

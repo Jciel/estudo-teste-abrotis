@@ -6,12 +6,6 @@ declare module 'vue' {
   export interface GlobalComponents {
     CardLinkMenu: typeof import('./src/components/card-link-menu.vue')['default']
     HelloWorld: typeof import('./src/components/HelloWorld.vue')['default']
-    IAkarIconsChevronDown: typeof import('~icons/akar-icons/chevron-down')['default']
-    IAkarIconsChevronLeft: typeof import('~icons/akar-icons/chevron-left')['default']
-    IAkarIconsChevronUp: typeof import('~icons/akar-icons/chevron-up')['default']
-    IBiThreeDotsVertical: typeof import('~icons/bi/three-dots-vertical')['default']
-    IHealthiconsMarketStallOutline: typeof import('~icons/healthicons/market-stall-outline')['default']
-    IIcOutlineMapsHomeWork: typeof import('~icons/ic/outline-maps-home-work')['default']
     ListCompaniesPanel: typeof import('./src/components/ListCompaniesPanel.vue')['default']
     ListItem: typeof import('./src/components/ListItem.vue')['default']
     SelectInput: typeof import('./src/components/SelectInput.vue')['default']
